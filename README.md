@@ -4,8 +4,12 @@ In addition, I provided 3 Demo.
 
 1.  I2C to Play "bad apple " on OLDE  (screen copy);
 2.  SPI ot Play "bad apple " on OLDE  (screen copy);
-3.  GPIO use as MDIO to Acesse LAN8720A chip ..
+    A vedio I made:
+	https://www.bilibili.com/video/BV1aR4y1g7hp?spm_id_from=333.999.0.0
 
+3.  GPIO use as MDIO to Acesse LAN8720A chip ..
+4.  I2C read temperature&humidity from DHT12 
+	![image](doc/dht12.png)
 
 
 Test have done with python version : 
@@ -21,5 +25,3 @@ using guide:
 enjoy it!
 
 
-A vedio I made:
-https://www.bilibili.com/video/BV1aR4y1g7hp?spm_id_from=333.999.0.0
